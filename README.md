@@ -1,2 +1,1 @@
-# gitcode-test
-git&amp;github-test
+this is my git-test
